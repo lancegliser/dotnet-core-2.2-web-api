@@ -1,14 +1,14 @@
-# Service Services
+# Service example
 
 This site serves as a service layer for Service, the front end React collection of applications supporting the business.
 
 ## Organization
 
-### Serviceervice
+## Service
 
 This is actual service layer itself. Models and controllers, the swagger UI, etc are all here.
 
-### Serviceervices.Test
+### Service.Test
 
 This is the tests for the service layer.
 
